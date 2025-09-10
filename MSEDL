@@ -1,0 +1,8 @@
+mcr.microsoft.com/
+*.data.mcr.microsoft.com/
+*.blob.core.windows.net/
+login.microsoft.com/
+*.identity.azure.net/
+login.microsoftonline.com/
+*.login.microsoftonline.com/
+*.login.microsoft.com/
