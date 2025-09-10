@@ -1,4 +1,4 @@
-mcr.microsoft.com/
+mcr.microsoft.com
 *.data.mcr.microsoft.com
 *.blob.core.windows.net
 login.microsoft.com
